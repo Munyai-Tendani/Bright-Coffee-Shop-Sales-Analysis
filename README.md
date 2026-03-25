@@ -1,8 +1,7 @@
 ## Bright Coffeee Shop
 
 
-Project Overview
-
+1. Project Overview
 The Bright Coffee Shop Sales Analysis Project focuses on examining daily transactional data from a coffee shop to uncover patterns in sales performance. The analysis is aimed at supporting the newly appointed CEO in making data-driven decisions to increase revenue and optimize product offerings
 
 
@@ -13,7 +12,6 @@ The business lacks clear insights into which products contribute most to revenue
 
 
 Purpose
-
 The purpose of this project is to analyze historical sales data to identify key trends, high-performing products, and peak sales periods. These insights will help guide business strategies aimed at increasing profitability and operational efficiency
 
 - Objectives
