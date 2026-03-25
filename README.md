@@ -16,12 +16,11 @@ Purpose
 
 The purpose of this project is to analyze historical sales data to identify key trends, high-performing products, and peak sales periods. These insights will help guide business strategies aimed at increasing profitability and operational efficiency
 
-# Objectives
-
-- Identify the top revenue-generating products
-- Determine the best-performing times of day
-- Analyze sales trends across products and time intervals
-- Provide data-driven recommendations to improve overall sales performance
+-Objectives
+  - Identify the top revenue-generating products
+  - Determine the best-performing times of day
+  - Analyze sales trends across products and time intervals
+  - Provide data-driven recommendations to improve overall sales performance
 
 
 
