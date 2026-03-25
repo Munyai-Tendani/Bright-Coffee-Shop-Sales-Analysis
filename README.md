@@ -4,11 +4,5 @@ The Bright Coffee Shop Sales Analysis Project focuses on examining daily transac
 
 Problem Statement
 
-Bright Coffee Shop is experiencing uncertainty in its revenue growth and product performance. The business lacks clear insights into:
-Which products contribute most to revenue
-
-What times of day generate the highest sales
-
-How sales vary across different products and time periods
-
-Without this information, it is difficult for management to make informed strategic decisions.
+Bright Coffee Shop is experiencing uncertainty in its revenue growth and product performance. 
+The business lacks clear insights into which products contribute most to revenue, what times of day generate the highest sales and how sales vary across different products and time periods.Without this information, it is difficult for management to make informed strategic decisions.
