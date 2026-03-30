@@ -19,3 +19,9 @@
   Morning hours showed the highest sales volume, indicating strong breakfast demand
   Certain products performed better during specific times (e.g., cold drinks in the afternoon)
   Sales trends revealed opportunities to promote underperforming items
+
+- Tools used to do the case study
+  - Databricks
+  - Excel
+  - Miro
+  - Canva
